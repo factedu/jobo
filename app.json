@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "jobo",
+    "slug": "jobo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "jobo"
+}
